@@ -12,14 +12,16 @@ _knowledge of_ <br/>
   - Android platform and services it provides;
   - Android application development environment and process;
   - Android API and device sensor capabilities;
-  - Android application performance optimization guidelines;<br/>
+  - Android application performance optimization guidelines;
+
 _skills in_ <br/>
   - designing mobile application UI taking into account mobile device capabilities;
   - using Android software development environment and tools;
   - using basic Android UI components;
   - implementing Android UI screen layouts;
   - processing UI component and lifecycle events;
-  - using networking, sensors and Google APIs;<br/>
+  - using networking, sensors and Google APIs;
+
 _competencies_ <br/>
   - to compare and contrast mobile programming with general purpose programming;
   - to review an existing Android application against best architecture, performance and variety of device support practices.
