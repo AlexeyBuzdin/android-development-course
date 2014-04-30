@@ -1,0 +1,31 @@
+# Binary files
+*.class
+*.dex
+
+# Packages
+*.jar
+!*gradle-wrapper.jar
+*.apk
+*.ap_
+
+# Generated files
+local.properties
+
+# Generated folders
+out/
+bin/
+gen/
+*/build/
+target/
+.gradle/
+gen-external-apklibs/
+
+# Project files
+.idea/
+*.iml
+.project
+.classpath
+
+# Misc
+*.DS_Store
+*.swp
