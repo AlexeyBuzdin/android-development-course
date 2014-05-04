@@ -26,22 +26,13 @@ _competencies_ <br/>
   - to compare and contrast mobile programming with general purpose programming;
   - to review an existing Android application against best architecture, performance and variety of device support practices.
 
-## Amount of work
-The course is 4 ECTS worth, it assumes 108 calendar hours of work for students of them:
-     40 - using online resources
-     68 - practical assignments and self study
-
-## Assessment
-Continuous assessment using online quizzes and manually graded android application development assignments.
-
 ## Prerequisites
 Basic knowledge of object-oriented programming and databases. Knowledge of basic data structures and algorithms.
 
 ## Recommended literature
-http://www.wrox.com/WileyCDA/WroxTitle/Professional-Android-4-Application-Development.productCd-1118102274.html<br/>
-http://siupt.uportu.pt/aulas/ficha_uc_impressao.php?df_id=1518&lang=en<br/>
-https://www.coursera.org/course/android<br/>
-https://tutsplus.com/course/android-for-the-busy-developer<br/>
-http://www.fromdev.com/2013/12/Top-Android-Books.html<br/>
+-“Pro Android 4” by Satya Komatineni, Dave MacLean, Apress 2012
+-“Professional Android 4 Application Development”, Reto Meier, Wrox 2012
+-“Mobile Design Pattern Gallery: UI Patterns for Mobile Applications” Theresa Neil, O'Reilly 2012
+-“Asynchronous Android” Steve Liles, Packt Publishing 2013
 
 ## Syllabus outline
