@@ -30,9 +30,9 @@ _competencies_ <br/>
 Basic knowledge of object-oriented programming and databases. Knowledge of basic data structures and algorithms.
 
 ## Recommended literature
--“Pro Android 4” by Satya Komatineni, Dave MacLean, Apress 2012
--“Professional Android 4 Application Development”, Reto Meier, Wrox 2012
--“Mobile Design Pattern Gallery: UI Patterns for Mobile Applications” Theresa Neil, O'Reilly 2012
--“Asynchronous Android” Steve Liles, Packt Publishing 2013
+  - “Pro Android 4” by Satya Komatineni, Dave MacLean, Apress 2012
+  - “Professional Android 4 Application Development”, Reto Meier, Wrox 2012
+  - “Mobile Design Pattern Gallery: UI Patterns for Mobile Applications” Theresa Neil, O'Reilly 2012
+  - “Asynchronous Android” Steve Liles, Packt Publishing 2013
 
 ## Syllabus outline
