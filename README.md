@@ -2,7 +2,10 @@ Android Development Course
 ==========================
 
 ## Aim of the course
-Teach students to develop Android mobile applications. Give an overview of Android application building blocks and design principles. Let students practice using hands-on Android application development exercises. Prepare students for work in Android mobile application development industry.
+Introduce student to mobile application development in various platforms. Teach students how to develop Android mobile applications. Give an overview of Android application building blocks and design principles. Let students practice using hands-on Android application development exercises. Prepare students for work in Android mobile application development industry.
+
+## Prerequisites
+Basic knowledge of object-oriented programming and databases. Knowledge of basic data structures and algorithms.
 
 ## Learning outcomes
 Upon course completion students will have <br/>
@@ -26,9 +29,6 @@ _competencies_ <br/>
   - to compare and contrast mobile programming with general purpose programming;
   - to review an existing Android application against best architecture, performance and variety of device support practices.
 
-## Prerequisites
-Basic knowledge of object-oriented programming and databases. Knowledge of basic data structures and algorithms.
-
 ## Recommended literature
   - “Pro Android 4” by Satya Komatineni, Dave MacLean, Apress 2012
   - “Professional Android 4 Application Development”, Reto Meier, Wrox 2012
@@ -36,3 +36,13 @@ Basic knowledge of object-oriented programming and databases. Knowledge of basic
   - “Asynchronous Android” Steve Liles, Packt Publishing 2013
 
 ## Syllabus outline
+
+1.	Course overview. Mobile platforms. Types of mobile apps development.
+2.	Android as platform and its tools.
+3.	Android project structure, resources, code organization.
+4.	Graphical User Interface for mobile systems. Use of Android GUI components in application.
+5.	Creating dynamic application lobic with Java lang.
+6.	Android application lifecycle. Activities, Fragments
+7.	Storing and caching date on client with Android.
+8.	Asyncronous processes, integration with web-service.
+Device sensors and hardware usage in application.
