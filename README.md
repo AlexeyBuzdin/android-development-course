@@ -46,3 +46,8 @@ _competencies_ <br/>
 7.	Storing and caching date on client with Android.
 8.	Asyncronous processes, integration with web-service.
 Device sensors and hardware usage in application.
+
+## Assesment structure
+  - 10% - slides preperation and presentation
+  - 40% - step by step app development through all course
+  - 50% - final theoretical exam
