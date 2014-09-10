@@ -30,10 +30,10 @@ _competencies_ <br/>
   - to review an existing Android application against best architecture, performance and variety of device support practices.
 
 ## Recommended literature
-  - “Pro Android 4” by Satya Komatineni, Dave MacLean, Apress 2012
-  - “Professional Android 4 Application Development”, Reto Meier, Wrox 2012
-  - “Mobile Design Pattern Gallery: UI Patterns for Mobile Applications” Theresa Neil, O'Reilly 2012
-  - “Asynchronous Android” Steve Liles, Packt Publishing 2013
+  - [“Pro Android 4”][1] by Satya Komatineni, Dave MacLean, Apress 2012
+  - [“Professional Android 4 Application Development”][2], Reto Meier, Wrox 2012
+  - [“Mobile Design Pattern Gallery: UI Patterns for Mobile Applications”][3] Theresa Neil, O'Reilly 2012
+  - [“Asynchronous Android”][4] Steve Liles, Packt Publishing 2013
 
 ## Syllabus outline
 
@@ -51,3 +51,8 @@ Device sensors and hardware usage in application.
   - 10% - slides preperation and presentation
   - 40% - step by step app development through all course
   - 50% - final theoretical exam
+
+[1]: http://www.amazon.com/Pro-Android-4-Satya-Komatineni/dp/1430239301
+[2]: http://www.amazon.com/Professional-Android-4-Application-Development/dp/1118102274/ref=sr_1_1?s=books&ie=UTF8&qid=1410307343&sr=1-1&keywords=Professional+Android+4+Application+Development
+[3]: http://www.amazon.com/Mobile-Design-Pattern-Gallery-Edition/dp/1449336442
+[4]: http://www.amazon.com/Asynchronous-Android-Steve-Liles/dp/1783286873/ref=sr_1_1?s=books&ie=UTF8&qid=1410307527&sr=1-1&keywords=Asynchronous+Android
