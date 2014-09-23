@@ -1,6 +1,5 @@
-##Session 2: Android Insides and Tools
-### Presentation
-https://speakerdeck.com/larchaon/android-insides-and-tools
+## Session 2: Android Insides and Tools
+### [Presentation](https://speakerdeck.com/larchaon/android-insides-and-tools)
 ### Links
 1. [How to enable Developers Options in Android](http://www.cnet.com/how-to/restore-the-developer-options-menu-in-android-4-2/)
 2. [Blogposts on Android Internals](http://anatomyofandroid.com/)

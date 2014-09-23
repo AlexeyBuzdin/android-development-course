@@ -47,6 +47,12 @@ _competencies_ <br/>
 8.	Asyncronous processes, integration with web-service.
 Device sensors and hardware usage in application.
 
+## Sessions
+
+1.	[Introduction to Mobile Application development](Course/Session_1/README.md)
+2.	[Android Insides and Tools](Course/Session_2/README.md)
+3.	[Overview of Android app](Course/Session_3/README.md)
+
 ## Assesment structure
   - 10% - slides preperation and presentation
   - 40% - step by step app development through all course
