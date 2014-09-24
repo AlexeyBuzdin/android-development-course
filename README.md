@@ -48,7 +48,7 @@ _competencies_ <br/>
 Device sensors and hardware usage in application.
 
 ## Skype chat
-skype:?chat&blob=yxk_PwGIBpmgcrf6gur4A_NYaXEEGQIWRTlKTO7k5dxWXhZyLjsBkmsNaKXDcxx4UaAhdq4
+skype:?chat&blob=n6Tei2oGlUR40kWTfZsCn188f6cI-vTpheoAG6muM6THdXot2fKUaw1NiNA-L1ybnJZw0XU
 
 ## Sessions
 
