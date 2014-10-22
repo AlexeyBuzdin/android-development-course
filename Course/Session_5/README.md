@@ -1,5 +1,18 @@
 ## Session 5: Android UI (part 5)
 ### [Presentation](Android%20UI%20part%20II.pdf)
+### Task part 1
+
+1. Create project
+2. Create layout with 3 views (Button, EditText, ListView)
+3. Set layout to Activity
+4. Set simple Adapter to ListView
+5. Create new Layout for ListViewAdapter
+6. Create custom Adapter
+7. SetOnClickListener to button and add element to List
+8. SetOnClickListener to Delete button
+9. Create new class with name ToDoItem and change it in Adapter
+10. Align ListItem Views with ToDoItem
+
 ### Code Examples
 
 Button click example
