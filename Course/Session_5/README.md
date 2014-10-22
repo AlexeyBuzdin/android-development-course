@@ -13,7 +13,7 @@
 9. Create new class with name ToDoItem and change it in Adapter
 10. Align ListItem Views with ToDoItem
 
-![Mockup](mockupr.png)
+![Mockup](mockup.png)
 
 ### Code Examples
 
