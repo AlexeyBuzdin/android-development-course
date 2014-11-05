@@ -38,6 +38,17 @@
         });
     }
 ```
+#### In order for OnItemClick to work you need to ensure that there is no Focusable View in ListItem
+For each CheckBox, Button, etc in ListItem layout you need to add ```android:focusable="false"```
+``` xml
+
+ <Button
+        android:id="@+id/button"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+```
 
 #### Internal Intent with Data that start new Activity
 ``` java
@@ -74,5 +85,3 @@ public void sendMessage(View view) {
 ```
 
 ### Links
-* [ArrayAdapter documentation](http://developer.android.com/reference/android/widget/ArrayAdapter.html)
-* [Generic ViewHolder](https://medium.com/@AlexeyBuzdin/generic-viewholder-for-android-63bf9e0db06a)
