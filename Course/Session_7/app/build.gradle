@@ -10,6 +10,7 @@ apply plugin: 'com.android.application'
 
 repositories {
     jcenter()
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
 }
 
 android {
@@ -33,5 +34,8 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:21.0.0'
+    compile (
+            'com.android.support:appcompat-v7:21.0.0',
+            'com.michaelpardo:activeandroid:3.1.0-SNAPSHOT'
+    )
 }

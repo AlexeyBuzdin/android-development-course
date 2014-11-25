@@ -5,12 +5,17 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.ActionBarActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import com.activeandroid.Model;
+import com.activeandroid.query.Select;
+
+import java.util.List;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -37,6 +42,12 @@ public class MainActivity extends ActionBarActivity {
                 editor.putString("prefUsername", editView.getText().toString());
                 editor.apply();
 
+                MyPersistedClass aClass = new MyPersistedClass();
+                aClass.setDescription(textView.getText().toString());
+                aClass.save();
+
+                List<Model> models = new Select().from(MyPersistedClass.class).execute();
+                Log.d(MainActivity.class.getName(), models.toString());
                 refreshUsername();
             }
         });
