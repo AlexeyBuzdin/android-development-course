@@ -9,7 +9,7 @@
 5. Configure you MainActivity to show ActionBar with 'Settings' button
 6. Add action listener to 'Settings' menu to open MyPreferenceActivity
 7. Align your custom TODO item list Adapter to paint items background corresponding to User defined color in 'Settings'
-8. Add ActiveAndroid dependency to you app build.gradle
+8. Add ActiveAndroid dependency to you app build.gradle and don't forget to add custom mvn repository link
 9. Extend you TodoItem class with Model and add @Column and @Table annotations
 10. Register database in AndroidManifest and register ActiveAndroid application
 11. Implement saving and fetching of TODO models from and to DB
