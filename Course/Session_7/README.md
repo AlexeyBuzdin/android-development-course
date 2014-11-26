@@ -83,3 +83,4 @@ new Select().from(MyPersistedClass.class).execute(); // To Select all
 ### Links
 
 https://github.com/pardom/ActiveAndroid/wiki/Getting-started
+http://developer.android.com/guide/topics/ui/actionbar.html
