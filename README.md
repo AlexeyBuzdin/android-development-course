@@ -47,9 +47,6 @@ _competencies_ <br/>
 8.	Asyncronous processes, integration with web-service.
 Device sensors and hardware usage in application.
 
-## Skype chat
-skype:?chat&blob=n6Tei2oGlUR40kWTfZsCn188f6cI-vTpheoAG6muM6THdXot2fKUaw1NiNA-L1ybnJZw0XU
-
 ## Sessions
 
 1.	[Introduction to Mobile Application development](Course/Session_1/README.md)
