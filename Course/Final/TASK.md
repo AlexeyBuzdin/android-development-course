@@ -13,3 +13,4 @@ Develop a TODO list application that hs the following features:
 10. Optional: User should see attached picture in TODO list on Main Screen
 11. Optional: User is able to select what type of TODO entry (image or text) he want to create
 12. Optional: User is able to share by mail all active TODO items and Images 
+13. Optional: Configure Firebase connection + authentication
