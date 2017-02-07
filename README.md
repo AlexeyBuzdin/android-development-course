@@ -47,14 +47,9 @@ _competencies_ <br/>
 7.	Storing and caching date on client with Android.
 8.	Asyncronous processes, integration with web-service.
 
-## Sessions
-
-1.	[Introduction to Mobile Application development](Course/Session_1/README.md)
-
 ## Assesment structure
-  - 10% - slides preperation and presentation
-  - 40% - step by step app development through all course
-  - 50% - final theoretical exam
+  - 60% - practical application development
+  - 40% - final theoretical exam
 
 [1]: http://www.amazon.com/Pro-Android-4-Satya-Komatineni/dp/1430239301
 [2]: http://www.amazon.com/Professional-Android-4-Application-Development/dp/1118102274/ref=sr_1_1?s=books&ie=UTF8&qid=1410307343&sr=1-1&keywords=Professional+Android+4+Application+Development
