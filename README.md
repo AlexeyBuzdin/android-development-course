@@ -42,10 +42,10 @@ _competencies_ <br/>
 2.	Android as platform and its tools.
 3.	Android project structure, resources, code organization.
 4.	Graphical User Interface for mobile systems. Use of Android GUI components in application.
-5.	Creating dynamic application lobic with Java lang.
-6.	Android application lifecycle. Activities, Fragments
+5.	Creating dynamic application logic with Java lang.
+6.	Android application lifecycle. Activities, Fragments.
 7.	Storing and caching date on client with Android.
-8.	Asyncronous processes, integration with web-service.
+8.	Asynchronous processes, integration with web-service.
 
 ## Assesment structure
   - 60% - practical application development
