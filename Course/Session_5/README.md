@@ -7,11 +7,10 @@
 3. Set layout to Activity
 4. Set simple Adapter to ListView
 5. Create new Layout for ListViewAdapter
-6. Create custom Adapter
+6. Create custom Adapter, demonstrate displaying different dates
 7. SetOnClickListener to button and add element to List
-8. SetOnClickListener to Delete button
-9. Create new class with name ToDoItem and change it in Adapter
-10. Align ListItem Views with ToDoItem
+8. Create new class ToDoItem and use it to represent todo text and date for the Adapter
+9. SetOnClickListener to Delete button
 
 ![Mockup](mockup.png)
 
