@@ -4,7 +4,7 @@ Develop a TODO list application that hs the following features:
 1. User is able to create a new TODO list entry 
 2. User is able to delete or check existing TODO entries
 3. User is able to see Detailed description of TODO entry on a new screen
-4. On a Detailed screen User can share the TODO entry to Facebook or Twitter
+4. On a Detailed screen User can share the TODO entry to Twitter or Google Keep
 5. User is able to access application Preference screen
 6. User is able to select a color of his TODO list in application Preferences that will be stored after app exit
 
