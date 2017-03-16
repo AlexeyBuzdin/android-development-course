@@ -13,10 +13,12 @@ Develop a TODO list application that hs the following features:
 * Strict Mode reports no errors
  
 ###---------(3 points)------------
+
 7. TODO list items should be stored in the Device Storage: a file, Preferences or a database
   * All IO is executed asynchronously 
 
 ###---------(4 points)------------
+
 8. Optional: On a Detailed screen User can edit TODO entries message
 9. Optional: On a Detailed screen User can take a photo and attach it to the TODO entry
 10. Optional: User should see attached picture in TODO list on Main Screen
